@@ -67,9 +67,12 @@ QA Automation Engineer | Selenium | Cypress | Playwright | API Testing
 
 </p>
 
+### Technologies:
+Java • JavaScript • Python • SQL
+
 ---
 
-##  Testing & Automation
+## 🧪 Testing & Automation
 
 <p align="left">
 
@@ -86,6 +89,9 @@ QA Automation Engineer | Selenium | Cypress | Playwright | API Testing
 <img src="https://jmeter.apache.org/images/jmeter_square.svg" height="55"/>
 
 </p>
+
+### Technologies:
+Selenium • Playwright • Cypress • Postman • JIRA • JMeter
 
 ---
 
@@ -107,6 +113,9 @@ QA Automation Engineer | Selenium | Cypress | Playwright | API Testing
 
 </p>
 
+### Technologies:
+Maven • Git • GitHub • Docker • VS Code • Eclipse
+
 ---
 
 ## 🤖 AI Tools & Platforms
@@ -123,15 +132,8 @@ QA Automation Engineer | Selenium | Cypress | Playwright | API Testing
 
 </p>
 
-### AI Platforms & Tools
-
-- ChatGPT (GPT-4.1 Mini)
-- Claude
-- Google Gemini
-- GitHub Copilot
-- Kimi
-- Opal
-- Antigravity AI
+### AI Platforms & Tools:
+ChatGPT (GPT-4.1 Mini) • Claude • Google Gemini • GitHub Copilot • Kimi • Opal • Antigravity AI
 
 ---
 
@@ -165,7 +167,7 @@ QA Automation Engineer | Selenium | Cypress | Playwright | API Testing
 
 </p>
 
-**Technologies:** JavaScript, Docker, JIRA, JMeter, Postman, SQL
+**Technologies:** JavaScript • Docker • JIRA • JMeter • Postman • SQL
 
 ---
 
@@ -191,6 +193,8 @@ QA Automation Engineer | Selenium | Cypress | Playwright | API Testing
 
 </p>
 
+**Technologies:** Python • GPT-4.1 Mini • Google Cloud • Voice AI • NLP • LLM Integration
+
 ---
 
 ## 🔹 AI-Based Chatbot System Supporting Families and Women During Pregnancy | 2023
@@ -209,6 +213,8 @@ QA Automation Engineer | Selenium | Cypress | Playwright | API Testing
 
 </p>
 
+**Technologies:** Python • TensorFlow • NLP • LSTM • Machine Learning
+
 ---
 
 ## 🔹 Density-Based Smart Traffic Control System
@@ -226,6 +232,8 @@ QA Automation Engineer | Selenium | Cypress | Playwright | API Testing
 <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
 
 </p>
+
+**Technologies:** Python • Machine Learning • Digital Image Processing
 
 ---
 
