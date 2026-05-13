@@ -72,7 +72,7 @@ Java • JavaScript • Python • SQL
 
 ---
 
-## 🧪 Testing & Automation
+##  Testing & Automation
 
 <p align="left">
 
