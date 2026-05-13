@@ -1,11 +1,10 @@
 # Srinath_A
-About Me
-<h1 align="center">Hi 👋, I'm Srinath Avula</h1>
-<h3 align="center">QA Automation Engineer | Selenium | Cypress | API Testing</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+<h1 align="center">Hi 👋, I'm Srinath Avula</h1>
+
+<h3 align="center">
+QA Automation Test Engineer | Selenium | Cypress | Playwright | API Testing
+</h3>
 
 ---
 
@@ -13,33 +12,42 @@ About Me
 
 - 🔍 Passionate QA Automation Engineer with hands-on experience in Manual Testing, Automation Testing, and API Testing.
 
-- 🌱 Currently learning Advanced Automation Frameworks, CI/CD, Docker, and AI-powered Testing workflows.
+- 🌱 Currently learning Advanced Automation Frameworks, CI/CD, Docker, AI Testing, and Modern QA Workflows.
 
-- 💻 Skilled in Selenium WebDriver, Cypress, Java, JavaScript, Python, Postman API Testing, TestNG, Maven, JIRA, SQL, and Git/GitHub.
+- 💻 Skilled in Selenium WebDriver, Cypress, Playwright, Java, JavaScript, Python, Postman API Testing, Maven, JIRA, SQL, Git, and GitHub.
 
-- 🎯 Interested in building scalable automation frameworks and improving software quality through efficient testing practices.
+- 🤖 Experienced with modern AI tools including ChatGPT (GPT-4.1 Mini), Claude, Google Gemini, GitHub Copilot, Kimi, Opal, and Antigravity AI.
+
+- 🎯 Interested in building scalable automation frameworks and AI-powered testing solutions.
 
 - 📍 Hyderabad, India
 
 ---
 
-# 📫 Connect With Me
+# 📫 Contact Me
 
 <p align="left">
 
 <a href="mailto:avulasrinath225@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<a href="https://github.com/Srinathavula">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+<a href="https://www.linkedin.com/in/srinathavula/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="https://developers.google.com/profile/u/115456665297736703382?utm_source=developers.google.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50"/>
 </a>
 
 </p>
+
+📧 Email: **avulasrinath225@gmail.com**  
+📱 Mobile: **+91 6281358815**
 
 ---
 
@@ -49,15 +57,15 @@ About Me
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=java" height="50"/>
+<img src="https://skillicons.dev/icons?i=java" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=javascript" height="50"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=html" height="50"/>
+<img src="https://skillicons.dev/icons?i=html" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=css" height="50"/>
+<img src="https://skillicons.dev/icons?i=css" height="55"/>
 
 </p>
 
@@ -67,13 +75,15 @@ About Me
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=selenium" height="50"/>
+<img src="https://skillicons.dev/icons?i=selenium" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=cypress" height="50"/>
+<img src="https://skillicons.dev/icons?i=cypress" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=postman" height="50"/>
+<img src="https://playwright.dev/img/playwright-logo.svg" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=jira" height="50"/>
+<img src="https://skillicons.dev/icons?i=postman" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=jira" height="55"/>
 
 </p>
 
@@ -83,19 +93,43 @@ About Me
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=testng" height="50"/>
+<img src="https://skillicons.dev/icons?i=maven" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=maven" height="50"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
+<img src="https://skillicons.dev/icons?i=react" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=django" height="50"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=react" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=tensorflow" height="50"/>
+<img src="https://skillicons.dev/icons?i=django" height="55"/>
 
 </p>
+
+---
+
+## 🤖 AI Tools & Platforms
+
+<p align="left">
+
+<img src="https://cdn.simpleicons.org/openai" height="55"/>
+
+<img src="https://cdn.simpleicons.org/googlegemini" height="55"/>
+
+<img src="https://cdn.simpleicons.org/githubcopilot" height="55"/>
+
+<img src="https://cdn.simpleicons.org/claude" height="55"/>
+
+</p>
+
+### AI Platforms & Tools
+
+- ChatGPT (GPT-4.1 Mini)
+- Claude
+- Google Gemini
+- GitHub Copilot
+- Kimi
+- Opal
+- Antigravity AI
 
 ---
 
@@ -103,11 +137,11 @@ About Me
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=aws" height="50"/>
+<img src="https://skillicons.dev/icons?i=aws" height="55"/>
 
 </p>
 
@@ -117,17 +151,17 @@ About Me
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=docker" height="50"/>
+<img src="https://skillicons.dev/icons?i=docker" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=linux" height="50"/>
+<img src="https://skillicons.dev/icons?i=linux" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=eclipse" height="50"/>
+<img src="https://skillicons.dev/icons?i=eclipse" height="55"/>
 
 </p>
 
@@ -149,9 +183,9 @@ About Me
 
 <img src="https://skillicons.dev/icons?i=python" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=googlecloud" height="45"/>
+<img src="https://cdn.simpleicons.org/openai" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
+<img src="https://cdn.simpleicons.org/googlecloud" height="45"/>
 
 </p>
 
@@ -173,7 +207,7 @@ About Me
 
 <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=sklearn" height="45"/>
+<img src="https://skillicons.dev/icons?i=django" height="45"/>
 
 </p>
 
@@ -192,8 +226,6 @@ About Me
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=python" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=opencv" height="45"/>
 
 <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
 
@@ -227,27 +259,13 @@ About Me
 
 ---
 
-## 🔹 Primus Bank Testing Project
-
-- Performed Manual Testing, Functional Testing, Test Case Execution, and Defect Reporting for banking application modules.
-
-- Validated workflows, identified defects, and ensured application quality through structured testing practices.
-
-### 🛠️ Technologies Used
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=java" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-
-</p>
-
-**Technologies:** Manual Testing, Functional Testing, SQL
-
----
-
 # 🏆 Certifications
+
+## 📜 View All Certifications
+
+🔗 https://drive.google.com/drive/folders/1QUuvGy9JZ9iD5hGH7LDNhh7eyJC9kL4S?usp=gmail
+
+### Certifications Included
 
 - Learn Software Testing Certification – Eduonix
 - TCS iON Job Primer
@@ -274,44 +292,27 @@ About Me
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180em"/>
-
-</p>
-
----
-
-# 📈 GitHub Contribution Graph
-
-[![Srinath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
-
----
-
 # 🧠 Currently Learning
 
 - Selenium Automation Framework Development
 - Cypress Automation Testing
+- Playwright Automation
 - REST API Automation
 - Jenkins CI/CD Integration
 - Docker for Automation Testing
-- SQL & Database Testing
 - AI-Powered Automation Testing
+- Advanced SQL & Database Testing
+
+---
+
+# 🤝 Support & Collaboration
+
+- Open to collaborating on QA Automation and AI Testing projects
+- Interested in Selenium, Cypress, Playwright, API Testing, and AI Automation projects
+- Passionate about modern testing technologies and automation practices
 
 ---
 
 # 💬 Quote
 
 > “Quality is never an accident; it is always the result of intelligent effort.”
-
----
-
-# 🤝 Support & Collaboration
-
-- Open to collaborating on QA Automation and Testing projects
-- Interested in Selenium, Cypress, API Testing, and AI Testing projects
-- Passionate about learning modern testing technologies and automation practices
