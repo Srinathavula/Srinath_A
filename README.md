@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Srinath Avula</h1>
 
 <h3 align="center">
-QA Automation Test Engineer | Selenium | Cypress | Playwright | API Testing
+QA Automation Engineer | Selenium | Cypress | Playwright | API Testing
 </h3>
 
 ---
@@ -71,7 +71,7 @@ QA Automation Test Engineer | Selenium | Cypress | Playwright | API Testing
 
 ---
 
-## 🧪 Testing & Automation Tools
+##  Testing & Automation Tools
 
 <p align="left">
 
@@ -83,7 +83,7 @@ QA Automation Test Engineer | Selenium | Cypress | Playwright | API Testing
 
 <img src="https://skillicons.dev/icons?i=postman" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=jira" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="55"/>
 
 </p>
 
@@ -111,13 +111,13 @@ QA Automation Test Engineer | Selenium | Cypress | Playwright | API Testing
 
 <p align="left">
 
-<img src="https://cdn.simpleicons.org/openai" height="55"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="55"/>
 
-<img src="https://cdn.simpleicons.org/googlegemini" height="55"/>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/claude-color.png" height="55"/>
 
-<img src="https://cdn.simpleicons.org/githubcopilot" height="55"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google-gemini-icon.svg" height="55"/>
 
-<img src="https://cdn.simpleicons.org/claude" height="55"/>
+<img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" height="55"/>
 
 </p>
 
@@ -161,7 +161,7 @@ QA Automation Test Engineer | Selenium | Cypress | Playwright | API Testing
 
 <img src="https://skillicons.dev/icons?i=vscode" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=eclipse" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="55"/>
 
 </p>
 
@@ -183,9 +183,9 @@ QA Automation Test Engineer | Selenium | Cypress | Playwright | API Testing
 
 <img src="https://skillicons.dev/icons?i=python" height="45"/>
 
-<img src="https://cdn.simpleicons.org/openai" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="45"/>
 
-<img src="https://cdn.simpleicons.org/googlecloud" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45"/>
 
 </p>
 
