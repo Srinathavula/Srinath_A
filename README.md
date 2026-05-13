@@ -247,6 +247,7 @@ ChatGPT (GPT-4.1 Mini) • Claude • Google Gemini • GitHub Copilot • Kimi 
 - TCS iON Career Edge – IT for Non-IT
 - Communication and Soft Skills – TCS iON
 - Java and SQL — OneRoadmap
+- Python — HCL GUVI Certifications
 - Agentic AI Expert — Ready Tensor
 - AI Generalist & Generative AI Mastermind — Outskill
 - Google Gemini AI Certified Student
@@ -255,8 +256,7 @@ ChatGPT (GPT-4.1 Mini) • Claude • Google Gemini • GitHub Copilot • Kimi 
 - Accenture North America Project Management Simulation – Forage
 - J.P. Morgan Software Engineering Virtual Experience – Forage
 - Deloitte Job Simulation – Forage
-- Two Sigma Professional Development Simulation  – Fora
-- HCL GUVI Certifications
+- Two Sigma Professional Development Simulation  – Forage
 
 ---
 
