@@ -12,7 +12,7 @@ QA Automation Engineer | Selenium | Cypress | Playwright | API Testing
 
 - 🔍 Passionate QA Automation Engineer with hands-on experience in Manual Testing, Automation Testing, and API Testing.
 
-- 🌱 Currently learning Advanced Automation Frameworks, CI/CD, Docker, AI Testing, and Modern QA Workflows.
+- 🌱 Currently learning CI/CD, Docker, Playwright, and AI-powered Testing workflows.
 
 - 💻 Skilled in Selenium WebDriver, Cypress, Playwright, Java, JavaScript, Python, Postman API Testing, Maven, JIRA, SQL, Git, and GitHub.
 
@@ -51,7 +51,7 @@ QA Automation Engineer | Selenium | Cypress | Playwright | API Testing
 
 ---
 
-# 🛠️ Languages and Tools
+# 🛠️ Skills & Tools
 
 ## 👨‍💻 Programming Languages
 
@@ -63,23 +63,19 @@ QA Automation Engineer | Selenium | Cypress | Playwright | API Testing
 
 <img src="https://skillicons.dev/icons?i=python" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=html" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=css" height="55"/>
-
 </p>
 
 ---
 
-##  Testing & Automation Tools
+## 🧪 Testing & Automation Tools
 
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=selenium" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=cypress" height="55"/>
-
 <img src="https://playwright.dev/img/playwright-logo.svg" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=cypress" height="55"/>
 
 <img src="https://skillicons.dev/icons?i=postman" height="55"/>
 
@@ -89,19 +85,33 @@ QA Automation Engineer | Selenium | Cypress | Playwright | API Testing
 
 ---
 
-## ⚙️ Frameworks & Technologies
+## ⚙️ Development & DevOps Tools
 
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=maven" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=react" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=tensorflow" height="55"/>
+<img src="https://skillicons.dev/icons?i=docker" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=django" height="55"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="55"/>
+
+</p>
+
+---
+
+## 🗄️ Database & Cloud
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=aws" height="55"/>
 
 </p>
 
@@ -130,40 +140,6 @@ QA Automation Engineer | Selenium | Cypress | Playwright | API Testing
 - Kimi
 - Opal
 - Antigravity AI
-
----
-
-## 🗄️ Database & Cloud
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=aws" height="55"/>
-
-</p>
-
----
-
-## 🧰 DevOps & Development Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=docker" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=git" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=linux" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="55"/>
-
-</p>
 
 ---
 
@@ -206,8 +182,6 @@ QA Automation Engineer | Selenium | Cypress | Playwright | API Testing
 <img src="https://skillicons.dev/icons?i=python" height="45"/>
 
 <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=django" height="45"/>
 
 </p>
 
