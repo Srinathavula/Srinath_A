@@ -217,7 +217,7 @@ ChatGPT (GPT-4.1 Mini) • Claude • Google Gemini • GitHub Copilot • Kimi 
 
 ---
 
-## 🔹 Density-Based Smart Traffic Control System
+## 🔹 Density-Based Smart Traffic Control System | 2022
 
 - Built a machine learning-based smart traffic control system using Digital Image Processing and Canny Edge Detection for real-time vehicle density analysis and adaptive traffic optimization.
 
