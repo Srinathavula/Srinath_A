@@ -245,15 +245,18 @@ ChatGPT (GPT-4.1 Mini) • Claude • Google Gemini • GitHub Copilot • Kimi 
 - TCS iON Job Primer
 - TCS iON Career Edge – Young Professional
 - TCS iON Career Edge – IT for Non-IT
-- Communication Skills – TCS iON
-- Effective Communication – NSDC
-- Cyber Security Awareness Programme – Tata Community
+- Communication and Soft Skills – TCS iON
+- Java and SQL — OneRoadmap
+- Agentic AI Expert — Ready Tensor
+- AI Generalist & Generative AI Mastermind — Outskill
+- Google Gemini AI Certified Student
+- Deploy Faster Generative AI Models with NVIDIA NIM on GKE — Google for Developers 
+- AWS APAC Solutions Architecture Job Simulation 
 - Accenture North America Project Management Simulation – Forage
 - J.P. Morgan Software Engineering Virtual Experience – Forage
 - Deloitte Job Simulation – Forage
-- Two Sigma Professional Development Simulation
-- Cybersecurity Analyst Simulation
-- GUVI Certifications
+- Two Sigma Professional Development Simulation  – Fora
+- HCL GUVI Certifications
 
 ---
 
