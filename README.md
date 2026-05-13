@@ -10,13 +10,13 @@ QA Automation Engineer | Selenium | Cypress | Playwright | API Testing
 
 # 🚀 About Me
 
-- 🔍 Passionate QA Automation Engineer with hands-on experience in Manual Testing, Automation Testing, and API Testing.
+- 🔍 Passionate QA Automation Engineer with hands-on experience in Manual Testing, Automation Testing, API Testing, and Real-Time Testing Projects.
 
-- 🌱 Currently learning CI/CD, Docker, Playwright, and AI-powered Testing workflows.
+- 🌱 Currently learning CI/CD, Docker, Playwright, JMeter, and AI-powered Testing workflows.
 
-- 💻 Skilled in Selenium WebDriver, Cypress, Playwright, Java, JavaScript, Python, Postman API Testing, Maven, JIRA, SQL, Git, and GitHub.
+- 💻 Skilled in Selenium WebDriver, Cypress, Playwright, Java, JavaScript, SQL, Postman, JIRA, Maven, Git, GitHub, and JMeter.
 
-- 🤖 Experienced with modern AI tools including ChatGPT (GPT-4.1 Mini), Claude, Google Gemini, GitHub Copilot, Kimi, Opal, and Antigravity AI.
+- 🤖 Experienced with modern AI tools including ChatGPT, Claude, Google Gemini, GitHub Copilot, Kimi, Opal, and Antigravity AI.
 
 - 🎯 Interested in building scalable automation frameworks and AI-powered testing solutions.
 
@@ -40,7 +40,7 @@ QA Automation Engineer | Selenium | Cypress | Playwright | API Testing
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="https://developers.google.com/profile/u/115456665297736703382?utm_source=developers.google.com">
+<a href="https://developers.google.com/profile/u/115456665297736703382">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50"/>
 </a>
 
@@ -63,11 +63,13 @@ QA Automation Engineer | Selenium | Cypress | Playwright | API Testing
 
 <img src="https://skillicons.dev/icons?i=python" height="55"/>
 
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+
 </p>
 
 ---
 
-## 🧪 Testing & Automation Tools
+##  Testing & Automation
 
 <p align="left">
 
@@ -81,11 +83,13 @@ QA Automation Engineer | Selenium | Cypress | Playwright | API Testing
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="55"/>
 
+<img src="https://jmeter.apache.org/images/jmeter_square.svg" height="55"/>
+
 </p>
 
 ---
 
-## ⚙️ Development & DevOps Tools
+## ⚙️ Tools & Technologies
 
 <p align="left">
 
@@ -100,18 +104,6 @@ QA Automation Engineer | Selenium | Cypress | Playwright | API Testing
 <img src="https://skillicons.dev/icons?i=vscode" height="55"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="55"/>
-
-</p>
-
----
-
-## 🗄️ Database & Cloud
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=aws" height="55"/>
 
 </p>
 
@@ -143,6 +135,40 @@ QA Automation Engineer | Selenium | Cypress | Playwright | API Testing
 
 ---
 
+# 💼 Experience
+
+## 🔹 Pixelvide | QA Testing Intern
+
+- Worked on Manual Testing, Functional Testing, and API Testing for real-time projects.
+
+- Performed API validation using Postman and defect tracking using JIRA.
+
+- Executed test cases, reported bugs, and validated application workflows.
+
+- Gained hands-on experience in Selenium automation and real-time QA processes.
+
+### 🛠️ Technologies Used
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=docker" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="45"/>
+
+<img src="https://jmeter.apache.org/images/jmeter_square.svg" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=postman" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+
+</p>
+
+**Technologies:** JavaScript, Docker, JIRA, JMeter, Postman, SQL
+
+---
+
 # 📂 Featured Projects
 
 ## 🔹 Sahasra — AI Voice Assistant for Automated Calling | Mar 2026
@@ -165,8 +191,6 @@ QA Automation Engineer | Selenium | Cypress | Playwright | API Testing
 
 </p>
 
-**Technologies:** Omni Dimension, GPT-4.1 Mini, Sarvam STT, Google TTS, LLM Integration, Voice AI, Multilingual NLP
-
 ---
 
 ## 🔹 AI-Based Chatbot System Supporting Families and Women During Pregnancy | 2023
@@ -184,8 +208,6 @@ QA Automation Engineer | Selenium | Cypress | Playwright | API Testing
 <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
 
 </p>
-
-**Technologies:** Python, NLP, LSTM, Machine Learning
 
 ---
 
@@ -205,41 +227,11 @@ QA Automation Engineer | Selenium | Cypress | Playwright | API Testing
 
 </p>
 
-**Technologies:** Python, Machine Learning, Digital Image Processing
-
----
-
-## 🔹 IFMIS Testing Project
-
-- Performed Functional Testing and API Testing for real-time government financial management modules.
-
-- Executed API validation using Postman and managed defects using JIRA.
-
-- Worked on test execution, defect tracking, and validation workflows in real-time testing scenarios.
-
-### 🛠️ Technologies Used
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=postman" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=java" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-
-</p>
-
-**Technologies:** Postman, Functional Testing, API Testing, SQL
-
 ---
 
 # 🏆 Certifications
 
-## 📜 View All Certifications
-
-🔗 https://drive.google.com/drive/folders/1QUuvGy9JZ9iD5hGH7LDNhh7eyJC9kL4S?usp=gmail
-
-### Certifications Included
+🔗 https://drive.google.com/drive/folders/1QUuvGy9JZ9iD5hGH7LDNhh7eyJC9kL4S
 
 - Learn Software Testing Certification – Eduonix
 - TCS iON Job Primer
@@ -248,20 +240,11 @@ QA Automation Engineer | Selenium | Cypress | Playwright | API Testing
 - Communication Skills – TCS iON
 - Effective Communication – NSDC
 - Cyber Security Awareness Programme – Tata Community
-- Master Data Management for Beginners – TCS iON
-- Understanding Reconciliation Life Cycle in Trades – TCS iON
-- Introduction to Credit Risk – TCS iON
-- Contract Management for Beginners – TCS iON
-- Understanding Collateral Management – TCS iON
-- Career Enhancement Programme – TCS iON
-- Basics of Inventory Management – TCS iON
-- Impress with Your Interview Skills
 - Accenture North America Project Management Simulation – Forage
 - J.P. Morgan Software Engineering Virtual Experience – Forage
 - Deloitte Job Simulation – Forage
 - Two Sigma Professional Development Simulation
 - Cybersecurity Analyst Simulation
-- Sustainability Consultant Simulation
 - GUVI Certifications
 
 ---
@@ -272,18 +255,9 @@ QA Automation Engineer | Selenium | Cypress | Playwright | API Testing
 - Cypress Automation Testing
 - Playwright Automation
 - REST API Automation
-- Jenkins CI/CD Integration
-- Docker for Automation Testing
+- Docker for Testing
+- JMeter Performance Testing
 - AI-Powered Automation Testing
-- Advanced SQL & Database Testing
-
----
-
-# 🤝 Support & Collaboration
-
-- Open to collaborating on QA Automation and AI Testing projects
-- Interested in Selenium, Cypress, Playwright, API Testing, and AI Automation projects
-- Passionate about modern testing technologies and automation practices
 
 ---
 
