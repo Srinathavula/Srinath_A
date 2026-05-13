@@ -253,7 +253,7 @@ ChatGPT (GPT-4.1 Mini) • Claude • Google Gemini • GitHub Copilot • Kimi 
 - Google Gemini AI Certified Student
 - Deploy Faster Generative AI Models with NVIDIA NIM on GKE — Google for Developers 
 - AWS APAC Solutions Architecture Job Simulation 
-- Accenture North America Project Management Simulation – Forage
+- Accenture Project Management Simulation – Forage
 - J.P. Morgan Software Engineering Virtual Experience – Forage
 - Deloitte Job Simulation – Forage
 - Two Sigma Professional Development Simulation  – Forage
