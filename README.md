@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Srinath Avula</h1>
 
 <h3 align="center">
-QA Automation Engineer | Selenium | Cypress | Playwright | API Testing
+QA Automation Test Engineer | Selenium | Cypress | Playwright | API Testing
 </h3>
 
 ---
