@@ -260,15 +260,16 @@ ChatGPT (GPT-4.1 Mini) • Claude • Google Gemini • GitHub Copilot • Kimi 
 
 ---
 
-# 🧠 Currently Learning
+# # 🧠 Skills Development & Advanced QA Practices
 
-- Selenium Automation Framework Development
-- Cypress Automation Testing
-- Playwright Automation
-- REST API Automation
-- Docker for Testing
-- JMeter Performance Testing
-- AI-Powered Automation Testing
+- Selenium WebDriver – Automation Framework Development
+- Cypress – End-to-End Automation Testing
+- Playwright – Modern Browser Automation
+- REST API Testing & Automation
+- Docker – Containerized Testing Environments
+- Apache JMeter – Performance & Load Testing
+- AI-Powered Testing – Intelligent Test Automation Workflows
+- CI/CD – Continuous Integration & Automated Test Execution
 
 ---
 
