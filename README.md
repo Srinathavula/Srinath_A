@@ -12,7 +12,7 @@ QA Automation Test Engineer | Selenium | Cypress | Playwright | API Testing
 
 - 🔍 Passionate QA Automation Engineer with hands-on experience in Manual Testing, Automation Testing, API Testing, and Real-Time Testing Projects.
 
-- 🌱 Currently learning CI/CD, Docker, Playwright, JMeter, and AI-powered Testing workflows.
+- 🌱 Building and enhancing skills in Playwright, CI/CD, Docker, JMeter, and AI-powered testing workflows, with a focus on modern QA automation practices and continuous testing.
 
 - 💻 Skilled in Selenium WebDriver, Cypress, Playwright, Java, JavaScript, SQL, Postman, JIRA, Maven, Git, GitHub, and JMeter.
 
