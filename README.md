@@ -260,7 +260,7 @@ ChatGPT (GPT-4.1 Mini) • Claude • Google Gemini • GitHub Copilot • Kimi 
 
 ---
 
-# # 🧠 Skills Development & Advanced QA Practices
+## 🧠 Skills Development & Advanced QA Practices
 
 - Selenium WebDriver – Automation Framework Development
 - Cypress – End-to-End Automation Testing
