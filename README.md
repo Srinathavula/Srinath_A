@@ -237,7 +237,7 @@ ChatGPT (GPT-4.1 Mini) • Claude • Google Gemini • GitHub Copilot • Kimi 
 
 ---
 
-# 🏆 Certifications
+## 🏆 Certifications
 
 🔗 https://drive.google.com/drive/folders/1QUuvGy9JZ9iD5hGH7LDNhh7eyJC9kL4S
 
